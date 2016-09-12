@@ -7,3 +7,5 @@ Repository of the GummiArm : http://mstoelen.github.io/GummiArm/
 Repository for the Soft robotic hand project : https://github.com/MarcAntoineCRUE/Soft-robotic-hand
 
 Documentation in the wiki : https://github.com/MarcAntoineCRUE/Soft-robotic-hand/wiki
+
+Video of the system : https://www.youtube.com/watch?v=CiWSVqEYf-w
